@@ -5,7 +5,7 @@ module.exports = {
     console.log(event);
     for (const member of promotedMembers) {
       await api.sendMessage(event.id, {
-        text: `🎉 Congratulations @${member.split('@')[0]}! You are now an admin!`,
+        text: `🎉 ᴄᴏɴɢʀᴀᴛᴜʟᴀᴛɪᴏɴs @${member.split('@')[0]}! ʏᴏᴜ ᴀʀᴇ ɴᴏᴡ ᴛʜɪs ɢʀᴏᴜᴘᴇ ᴀᴅᴍɪɴ 🌟 ɪ ʜᴏᴘᴇ ʏᴏᴜ ғʟᴏᴡ ᴛʜɪs ɢʀᴏᴜᴘ ʀᴜʟʟs🌟😊`,
         mentions: [member]
       });
     }
