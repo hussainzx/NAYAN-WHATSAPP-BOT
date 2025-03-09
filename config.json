@@ -1,16 +1,16 @@
 {
   "packname": "My Sticker Pack",
-  "author": "My Bot",
-  "botName": "Nayan Bot",
-  "botOwner": "Nayan",
-  "ownerNumber": "8801615298449",
-  "PREFIX": ".",
+  "author": "my Bot",
+  "botName": "🦋𝗜𝗧𝗔𝗖𝗛𝗜 ✞︎ 𝗨𝗖𝗛𝗜𝗛𝗔 ♂️🌟",
+  "botOwner": "🔰_ 乂Ｈ4ＳＳム1Ｎ乂_🔰",
+  "ownerNumber": "8801965142856",
+  "PREFIX": "Itachi",
   "admin": [
-    "8801615298449",
+    "8801334089349",
     ""
   ],
-  "helpPic": "https://i.postimg.cc/pV7xByGv/IMG-20250106-WA0007.png",
-  "welPic": "https://i.imgur.com/mlnUVGS.jpeg",
+  "helpPic": "https://i.imgur.com/nRp2GPi.jpeg",
+  "welPic": "https://i.imgur.com/nRp2GPi.jpeg",
   "PORT": "3000",
   "msg": {
     "modAdmin": false,
