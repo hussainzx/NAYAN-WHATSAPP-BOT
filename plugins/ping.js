@@ -15,6 +15,6 @@
     },
   start: async ({ event, api }) => {
 
-    await api.sendMessage(event.threadId, { text: 'Pong!' });
+    await api.sendMessage(event.threadId, { text: 'ɪᴛᴀᴄʜɪ ᴜᴄʜɪʜᴀ sᴀʀᴠᴇʀ sᴘᴇᴇᴅ💀🌟' });
   },
 };
