@@ -14,7 +14,7 @@ module.exports = {
   },
   start: async ({ event, api }) => {
     const currentPrefix = global.config.PREFIX;
-    const message = `🔰 My current prefix is: \`${currentPrefix}\``;
+    const message = `🔰 ʜᴇʏ ʙᴇᴘ ɪ ᴀᴍ ɪᴛᴀᴄʜɪ ᴜᴄʜɪʜᴀ 🌟 ᴍʏ xʀᴇᴀᴛᴏʀ ᴍʀ ʜᴜssᴀɪɴ💀 ɪᴛᴀᴄʜɪ ᴄʜᴀᴛ ʙᴏᴛ ᴘʀᴇғɪx [ , ]👑: \`${currentPrefix}\``;
     await api.sendMessage(event.threadId, { text: message });
   },
 };
