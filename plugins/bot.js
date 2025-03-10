@@ -82,7 +82,7 @@ module.exports = {
         "আমাকে চুমু দিবি 🫢🦋",
         "হেহে বাবু আমার কাছে আসো 😘💋",
         "আমি তোমাকে অনেক ভালোবাসি বাবু🥺💖",
-        "ɪᴛᴀᴄʜɪ ᴜᴄʜɪʜᴀ বট এর help list dekhte type koron *help",
+        "ɪᴛᴀᴄʜɪ ᴜᴄʜɪʜᴀ বট এর help list dekhte type koron ,help",
         "কিরে বলদ তুই এইখানে 🙂",
         " আমাকেq চিনো না জানু? মনু",
         "hey bbe I'm your personal Based chatbot you ask me anything",
