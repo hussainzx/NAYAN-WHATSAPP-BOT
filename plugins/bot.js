@@ -37,7 +37,7 @@ module.exports = {
 
     try {
 
-        const apis = await axios.get('https://raw.githubusercontent.com/nazrul4x/Noobs/main/Apis.json');
+        const apis = await axios.get('https://raw.githubusercontent.com/MOHAMMAD-NAYAN/Nayan/main/api.json');
       const apiss = apis.data.api;
       
       const response = await axios.get(
@@ -82,7 +82,7 @@ module.exports = {
         "আমাকে চুমু দিবি 🫢🦋",
         "হেহে বাবু আমার কাছে আসো 😘💋",
         "আমি তোমাকে অনেক ভালোবাসি বাবু🥺💖",
-        "হুসাইন বট এর help list dekhte type koron help",
+        "ɪᴛᴀᴄʜɪ ᴜᴄʜɪʜᴀ বট এর help list dekhte type koron ,help",
         "কিরে বলদ তুই এইখানে 🙂",
         " আমাকেq চিনো না জানু? মনু",
         "hey bbe I'm your personal Based chatbot you ask me anything",
@@ -107,8 +107,8 @@ module.exports = {
         "Boss hussain er chipay😜 ",
         "bashi dakle boss hussain ke bole dimu😒 ",
         "Xhipay atke gaci jan🥲 ",
-        "Washroom a😿 ",
-        "amare na daika hussain re gf de🙆‍♂️😼 ",
+        "Washroom a🤣 ",
+        "bado maser kawwa police amar sawwa😞 ",
         "I am single plz distrab me🥺🥲 ",
         "𝗮𝗺𝗶 𝗯𝗼𝘁 𝗻𝗮 𝗮𝗺𝗮𝗸𝗲 𝗯𝗯𝘆 𝗯𝗼𝗹𝗼 𝗯𝗯𝘆!!😘 ",
         "🍺 এই নাও জুস খাও..!𝗕𝗯𝘆 বলতে বলতে হাপায় গেছো না 🥲 ",
@@ -127,13 +127,12 @@ module.exports = {
         "Walaikumsalam😫🤓 ",
         "Chaiya takos kn ki kobi kooo☹️ ",
         "Onek boro beyadop re tui😒 ",
-        "Amar shate kew tex kore na😫 ",
+        "Amar shate kew sex opps tex kore na😫 ",
         "অনুমতি দিলাম-𝙋𝙧𝙤𝙥𝙤𝙨𝙚 কর বস HUSSAIN কে-🐸😾🔪 ",
         "বলো কি বলবা, সবার সামনে বলবা নাকি?🤭🤏 ",
-        "-আজ একটা বিন নেই বলে গ্রুপের নাগিন-🤧-গুলোরে আমার বস HUSSAIN ধরতে পারছে না-🐸🥲 ",
+        "-আজ একটা বিন নেই বলে ফেসবুকের নাগিন-🤧-গুলোরে আমার বস HUSSAIN ধরতে পারছে না-🐸🥲 ",
         " তোর কি চোখে পড়ে না আমি ব্যাস্ত 😒💌",
-        "বলো কি বলবা, চিপায় যাইয়া বলবা নাকি সবার সামনে বলবা ?🤭
-",
+        "বলো কি বলবা, চিপায় যাইয়া বলবা নাকি সবার সামনে বলবা ?🤭",
       ];
 
       const randomGreeting = greetings[Math.floor(Math.random() * greetings.length)];
@@ -153,7 +152,7 @@ module.exports = {
     }
 
     try {
-        const apis = await axios.get('https://raw.githubusercontent.com/nazrul4x/Noobs/main/Apis.json');
+        const apis = await axios.get('https://raw.githubusercontent.com/MOHAMMAD-NAYAN/Nayan/main/api.json');
       const apiss = apis.data.api;
       
       const response = await axios.get(
